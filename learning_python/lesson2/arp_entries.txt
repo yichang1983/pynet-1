@@ -1,0 +1,7 @@
+Internet  10.220.88.1           135   0062.ec29.70fe  ARPA   FastEthernet4
+
+Internet  10.220.88.10          220   5254.ab71.e119  ARPA   FastEthernet4
+
+Internet  10.220.88.28          222   5254.aba8.9aea  ARPA   FastEthernet4
+
+Internet  10.220.88.29          234   5254.abbe.5b7b  ARPA   FastEthernet4
